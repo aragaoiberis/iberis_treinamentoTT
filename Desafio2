@@ -1,0 +1,12 @@
+Temperatura de operação: -40 to +85 ºC
+
+Potência dissipada do sensor: 50 mW
+
+Corrente no coletor: IF = 20mA, VCE =  5V
+
+Tensão máxima de entrada: 1.6 V
+
+Dimensões do sensor( altura, largura e comprimento): 1.7 mm, 2.9 mm, 3.6 mm
+
+Corrente normalizada no coletor quando a distância entre o sensor e o objeto é
+3mm (use as informações dos gráficos): 0.2 mA
