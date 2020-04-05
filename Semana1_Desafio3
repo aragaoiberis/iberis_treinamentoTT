@@ -1,0 +1,4 @@
+QTR 1A
+Sensor analogico usado para detectar a luz que é refletida de uma superfície, pode ser usado nos robôs segue-linha e sumô para detectar trajeto ou bordas do dojo
+
+O funcionamento se dá por um led cujo brilho é dado pela tensão de entrada, que emite a luz em uma superfície próxima, esta por sua vez reflete este brilho, que é detectado pelo fototransistor e conforme a refletancia aumenta, a tensão de saída diminui e vice cersa
