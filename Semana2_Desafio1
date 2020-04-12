@@ -1,0 +1,33 @@
+Que tipo de componente é;
+É um sensor de temperatura
+
+➔ Qual é sua finalidade;
+Variar a tensão do circuito conforme a variação de temperatura
+
+
+➔ Explique o funcionamento do mesmo;
+
+➔ Fator de escala [datasheet]
+É a razão de proporção entre tensão e temperatura
+◆ Encontre o valor e descreva o que significa este termo.
+ 10 mV/°C. 
+
+
+➔ Precisão [datasheet]
+◆ Encontre o valor e descreva o que significa este termo.
+precisão de ±1°C em +25°C e ±2°C ao longo de −40°C até +125°C
+significa com que precisão a temperatura é medida
+
+➔ Temperatura operacional [datasheet]
+◆ Encontre o valor e descreva o que significa este termo.
+Em qual temperatura o componente funciona
+entre -55°C e 150°C
+
+
+➔ Linearidade [Datasheet]
+◆ Encontre o valor e descreva o que significa este termo.
+A cada 0.5°C  a tensão de saída varia linearmente 10mV 
+
+
+➔ Cite algumas aplicações deste componente
+Pode ser aplicado em qualquer circuito que necessite variar um função conforme a temperatura, por exemplo um aparelho que desligue caso superaqueça
